@@ -1,1 +1,3 @@
 TODO: Reflect on what you learned this week and what is still unclear.
+How to check version control -  to the left icon ..... 
+must save to read changes obviously
